@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bacteriamod",
+  "name": "Bacteria Mod",
+  "description": "A mod about bacteria.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ranger_Ras, Nikko4913"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

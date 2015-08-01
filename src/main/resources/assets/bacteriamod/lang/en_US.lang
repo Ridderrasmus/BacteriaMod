@@ -1,0 +1,8 @@
+# Items
+item.test_item.name=Test Item
+
+#Blocks
+tile.test_block.name=Test Block
+
+#Misc
+itemGroup.tabBacteria=Bacteria Mod
