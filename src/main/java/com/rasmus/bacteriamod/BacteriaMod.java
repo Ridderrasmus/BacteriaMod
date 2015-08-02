@@ -1,7 +1,22 @@
 package com.rasmus.bacteriamod;
 
+import com.rasmus.bacteriamod.init.Blocks;
+import com.rasmus.bacteriamod.init.Items;
+import com.rasmus.bacteriamod.proxy.CommonProxy;
+import com.rasmus.bacteriamod.utility.LogHelper;
+import net.minecraftforge.fml.common.FMLLog;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod.EventHandler;
+import net.minecraftforge.fml.common.SidedProxy;
+import net.minecraftforge.fml.common.event.FMLInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-//Here I place the general todos I make. I go more in-depth in th actual files of fx. the microscope.
+
+
+//Here we can place the general todos I make. I go more in-depth in the actual files of fx. the microscope.
+
+//TODO: Create classes that helps us make features more easily!
 
 //TODO: Create a microscope!   -   Ras: I'm making the model, currently about 10% done though :/
 
@@ -12,19 +27,6 @@ package com.rasmus.bacteriamod;
 //TODO: Make guide book!
 
 
-
-
-
-
-import com.rasmus.bacteriamod.init.Blocks;
-import com.rasmus.bacteriamod.init.Items;
-import com.rasmus.bacteriamod.proxy.CommonProxy;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.common.Mod.EventHandler;
-import net.minecraftforge.fml.common.SidedProxy;
-import net.minecraftforge.fml.common.event.FMLInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = Reference.MODID,name = Reference.MOD_NAME, version = Reference.VERSION)
 public class BacteriaMod
@@ -41,6 +43,8 @@ public class BacteriaMod
     {
         Blocks.init();
         Items.init();
+
+        LogHelper.info("Pre-init done!");
     }
 
 
@@ -49,11 +53,13 @@ public class BacteriaMod
     {
 
         proxy.registerRenders();
+
+        LogHelper.info("Init done!");
     }
 
     @EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
-
+        LogHelper.info("Post-init done!");
     }
 }

@@ -1,20 +1,48 @@
-[03:54:32] [main/INFO]: Logging in with username & password
-[03:54:36] [Client thread/INFO]: Setting user: Ranger_Ras
-[03:54:38] [Client thread/INFO]: LWJGL Version: 2.9.1
-[03:54:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bacteria Mod
-[03:54:42] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[03:54:43] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[03:54:43] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[03:54:43] [Thread-9/INFO]: OpenAL initialized.
-[03:54:43] [Sound Library Loader/INFO]: Sound engine started
-[03:54:43] [Twitch authenticator/ERROR]: Given twitch access token is invalid
-[03:54:45] [Client thread/INFO]: Created: 16x16 textures-atlas
-[03:54:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bacteria Mod
-[03:54:46] [Client thread/INFO]: SoundSystem shutting down...
-[03:54:46] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[03:54:46] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[03:54:47] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[03:54:47] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[03:54:47] [Thread-11/INFO]: OpenAL initialized.
-[03:54:47] [Sound Library Loader/INFO]: Sound engine started
-[03:54:49] [Client thread/INFO]: Created: 512x512 textures-atlas
+[04:15:28] [main/INFO]: Logging in with username & password
+[04:15:32] [Client thread/INFO]: Setting user: Ranger_Ras
+[04:15:34] [Client thread/INFO]: LWJGL Version: 2.9.1
+[04:15:38] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bacteria Mod
+[04:15:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[04:15:39] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[04:15:39] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[04:15:39] [Thread-9/INFO]: OpenAL initialized.
+[04:15:39] [Sound Library Loader/INFO]: Sound engine started
+[04:15:39] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[04:15:42] [Client thread/INFO]: Created: 16x16 textures-atlas
+[04:15:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Bacteria Mod
+[04:15:43] [Client thread/INFO]: SoundSystem shutting down...
+[04:15:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[04:15:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[04:15:43] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[04:15:43] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[04:15:43] [Thread-11/INFO]: OpenAL initialized.
+[04:15:43] [Sound Library Loader/INFO]: Sound engine started
+[04:15:46] [Client thread/INFO]: Created: 512x512 textures-atlas
+[04:16:34] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[04:16:34] [Server thread/INFO]: Generating keypair
+[04:16:35] [Server thread/INFO]: Preparing start region for level 0
+[04:16:36] [Server thread/INFO]: Changing view distance to 12, from 10
+[04:16:37] [Server thread/INFO]: Ranger_Ras[local:E:12bb7f9b] logged in with entity id 288 at (-77.22865097391058, 63.125, 240.2594766972268)
+[04:16:37] [Server thread/INFO]: Ranger_Ras joined the game
+[04:16:49] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[04:16:49] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[04:16:51] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[04:17:40] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[04:18:19] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[04:19:03] [Client thread/INFO]: [CHAT] There is no such item with name minecraft:397
+[04:19:25] [Server thread/INFO]: [Ranger_Ras: Given [nikko4913's Head] * 1 to Ranger_Ras]
+[04:19:25] [Client thread/INFO]: [CHAT] Given [nikko4913's Head] * 1 to Ranger_Ras
+[04:20:25] [Client thread/INFO]: [CHAT] Saved screenshot as 2015-08-02_04.20.25.png
+[04:21:28] [Server thread/INFO]: Saving and pausing game...
+[04:21:28] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[04:21:28] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[04:21:28] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[04:21:29] [Server thread/INFO]: Stopping server
+[04:21:29] [Server thread/INFO]: Saving players
+[04:21:29] [Server thread/INFO]: Saving worlds
+[04:21:29] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[04:21:29] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[04:21:29] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[04:21:30] [Client thread/INFO]: Stopping!
+[04:21:30] [Client thread/INFO]: SoundSystem shutting down...
+[04:21:30] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

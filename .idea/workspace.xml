@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="164565d5-2a14-4893-b35e-fb2606373d87" name="Default" comment="Basic stuff gotten down!">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockBM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockMicroscope.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/bacteriamod/models/block/microscope.json" />
-      <change type="DELETED" beforePath="C:\Users\Rasmus\Desktop\MinecraftModding\src\main\java\com\rasmus\bacteriamod\block\BlockTestBlock.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Rasmus\Desktop\MinecraftModding\src\main\resources\assets\bacteriamod\models\block\test_block.json" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/utility/LogHelper.java" />
       <change type="DELETED" beforePath="C:\Users\Rasmus\Desktop\MinecraftModding\src\main\resources\bacteriamod\models\item\test_item.json" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Rasmus\Desktop\MinecraftModding\src\main\resources\bacteriamod\textures\items\test_item.png" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Rasmus\Desktop\MinecraftModding\src\main\java\com\rasmus\bacteriamod\bacteriamod.java" afterPath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/BacteriaMod.java" />
-      <change type="MOVED" beforePath="C:\Users\Rasmus\Desktop\MinecraftModding\src\main\resources\assets\bacteriamod\blockstates\test_block.json" afterPath="$PROJECT_DIR$/src/main/resources/assets/bacteriamod/blockstates/microscope.json" />
-      <change type="MOVED" beforePath="C:\Users\Rasmus\Desktop\MinecraftModding\src\main\resources\assets\bacteriamod\models\item\test_block.json" afterPath="$PROJECT_DIR$/src/main/resources/assets/bacteriamod/models/item/microscope.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-01-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-01-1.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-01-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-01-2.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-01-3.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-01-3.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-01-4.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-01-4.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-01-5.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-01-5.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-01-6.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-01-6.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-01-7.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-01-7.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-02-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-02-1.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-02-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-02-2.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-02-3.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-02-3.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-02-4.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-02-4.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-02-5.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-02-5.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-02-6.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-02-6.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2015-08-02-7.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2015-08-02-7.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World/playerdata/f384e6df-6385-4700-9a25-52eaa69bf6be.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World/playerdata/f384e6df-6385-4700-9a25-52eaa69bf6be.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World/level.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World/level.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World/level.dat_old" afterPath="$PROJECT_DIR$/eclipse/saves/Test World/level.dat_old" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World/region/r.-1.0.mca" afterPath="$PROJECT_DIR$/eclipse/saves/Test World/region/r.-1.0.mca" />
@@ -27,17 +21,16 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World/DIM1/data/villages_end.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World/DIM1/data/villages_end.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World/DIM-1/data/villages_nether.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World/DIM-1/data/villages_nether.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/init/Blocks.java" afterPath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/init/Blocks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/bacteriamod/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/bacteriamod/lang/en_US.lang" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/BacteriaMod.java" afterPath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/BacteriaMod.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockMicroscope.java" afterPath="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockMicroscope.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World/stats/f384e6df-6385-4700-9a25-52eaa69bf6be.json" afterPath="$PROJECT_DIR$/eclipse/saves/Test World/stats/f384e6df-6385-4700-9a25-52eaa69bf6be.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="d4544baf-f186-4679-84a8-a4c5eb1976ee" name="Rejected commit: Default" comment="Basic stuff gotten down!" />
@@ -120,10 +113,12 @@
       <file leaf-file-name="BacteriaMod.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/BacteriaMod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.586207">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state vertical-scroll-proportion="-11.724138">
+              <caret line="20" column="96" selection-start-line="20" selection-start-column="96" selection-end-line="20" selection-end-column="96" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1938#1939#0" expanded="true" />
+                <element signature="e#1987#1988#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,29 +138,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="true">
+      <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/assets/bacteriamod/lang/en_US.lang">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.028716216">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlockMicroscope.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BlockMicroscope.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockMicroscope.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.6896553">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.3321492">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -771,7 +766,6 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/bacteriamod.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/References.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/utility/LogHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/proxy/CommonProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/Reference.java" />
         <option value="$PROJECT_DIR$/src/main/resources/bacteriamod/models/items/test_item.json" />
@@ -789,15 +783,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/data/CoordEntry.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/tileentity/TileEntityBaseBlock.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/init/Items.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/BacteriaMod.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockMicroscope.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockTestBlock.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockBM.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/init/Blocks.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/bacteriamod/blockstates/microscope.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/bacteriamod/models/item/microscope.json" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/bacteriamod/lang/en_US.lang" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/util/LogHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/utility/LogHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/BacteriaMod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockMicroscope.java" />
       </list>
     </option>
   </component>
@@ -1113,30 +1109,8 @@
               <option name="myItemId" value="net" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Minecraft Modding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle: :forgeSrc:1.8-11.14.3.1501" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgeSrc-1.8-11.14.3.1501.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minecraft" />
+              <option name="myItemId" value="minecraftforge" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1162,11 +1136,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="minecraft" />
+              <option name="myItemId" value="minecraftforge" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="item" />
+              <option name="myItemId" value="fml" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1192,41 +1166,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="minecraft" />
+              <option name="myItemId" value="minecraftforge" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="init" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Minecraft Modding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle: :forgeSrc:1.8-11.14.3.1501" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgeSrc-1.8-11.14.3.1501.jar" />
+              <option name="myItemId" value="fml" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minecraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="textures" />
+              <option name="myItemId" value="common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1248,63 +1196,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minecraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Minecraft Modding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle: :forgeSrc:1.8-11.14.3.1501" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgeSrc-1.8-11.14.3.1501.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minecraft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Minecraft Modding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle: :forgeSrc:1.8-11.14.3.1501" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgeSrc-1.8-11.14.3.1501.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="net" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1453,6 +1345,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bacteriamod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Minecraft Modding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MinecraftModding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bacteriamod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1767,7 +1689,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14605543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1815,6 +1737,8 @@
           <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1861,6 +1785,8 @@
           <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2006,18 +1932,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/item/ItemTestItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8-11.14.3.1501/start/GradleStart.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18053098">
@@ -2040,32 +1954,6 @@
           <caret line="17" column="32" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/BacteriaMod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.586207">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockMicroscope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6896553">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2100,9 +1988,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/bacteriamod/lang/en_US.lang">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028716216">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.8-11.14.3.1501/snapshot/20141130/forgeSrc-1.8-11.14.3.1501-sources.jar!/net/minecraftforge/fml/common/FMLLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+          <folding>
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/utility/LogHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.25844595">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/item/ItemTestItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/BacteriaMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.724138">
+          <caret line="20" column="96" selection-start-line="20" selection-start-column="96" selection-end-line="20" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rasmus/bacteriamod/block/BlockMicroscope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321492">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
