@@ -2,7 +2,7 @@
 {
   "modid": "bacteriamod",
   "name": "Bacteria Mod",
-  "description": "A mod about bacteria.",
+  "description": "A mod about cellular lifeforms.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",

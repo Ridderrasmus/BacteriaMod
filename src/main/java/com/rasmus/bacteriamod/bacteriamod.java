@@ -1,5 +1,21 @@
 package com.rasmus.bacteriamod;
 
+
+//Here I place the general todos I make. I go more in-depth in th actual files of fx. the microscope.
+
+//TODO: Create a microscope!   -   Ras: I'm making the model, currently about 10% done though :/
+
+//      Study = Look at in microscope and get something in return
+//TODO: Make fungus be able to be studied! (I mean, it's a start :/)
+//TODO: Make more living stuff (Flowers, crops, saplings etc.) be able to be studied!
+//TODO: Make the research one has made usable ;)
+//TODO: Make guide book!
+
+
+
+
+
+
 import com.rasmus.bacteriamod.init.Blocks;
 import com.rasmus.bacteriamod.init.Items;
 import com.rasmus.bacteriamod.proxy.CommonProxy;

@@ -1,7 +1,8 @@
 package com.rasmus.bacteriamod.init;
 
 import com.rasmus.bacteriamod.Reference;
-import com.rasmus.bacteriamod.block.BlockTestBlock;
+import com.rasmus.bacteriamod.block.BlockMicroscope;
+import com.rasmus.bacteriamod.block.BlockBM;
 import net.minecraft.block.Block;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.model.ModelResourceLocation;
@@ -14,24 +15,24 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class Blocks
 {
 
-    public static Block test_block;
+    public static Block microscope;
 
 
     public static void init()
     {
-        test_block = new BlockTestBlock();
+        microscope = new BlockMicroscope();
 
         register();
     }
 
     public static void register()
     {
-        GameRegistry.registerBlock(test_block, test_block.getUnlocalizedName().substring(5));
+        GameRegistry.registerBlock(microscope, microscope.getUnlocalizedName().substring(5));
     }
 
     public static void registerRenders()
     {
-        registerRender(test_block);
+        registerRender(microscope);
     }
 
     public static void registerRender(Block block)

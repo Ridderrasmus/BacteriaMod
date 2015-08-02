@@ -2,7 +2,7 @@
 item.test_item.name=Test Item
 
 #Blocks
-tile.test_block.name=Test Block
+tile.microscope.name=Microscope
 
 #Misc
 itemGroup.tabBacteria=Bacteria Mod
